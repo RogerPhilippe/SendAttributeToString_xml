@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SendAttributeToString_xml</string>
+    <string name="title_activity">Números randomicos. Gerados e enviados para o arquivo string.xml</string>
+    <string name="valores_randomicos">Valores gerados randomicamente: %1$d, %2$d e %3$d.</string> <!-- d ou s -->
+</resources>
